@@ -1,0 +1,4 @@
+DOCTORS = {}
+PATIENTS = {}
+SLOTS = {}
+APPOINMENTS = {}
