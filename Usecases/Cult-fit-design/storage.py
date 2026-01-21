@@ -1,0 +1,5 @@
+CENTERS = {}
+USERS = {}
+BOOKINGS = {}
+TRAINERS = {}
+CLASS_SESSIONS = {}
